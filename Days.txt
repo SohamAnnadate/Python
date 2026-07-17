@@ -1,0 +1,9 @@
+Day 0 :
+    Installation is Done
+    Error Resloved 
+    All system works right
+
+Day 1 :
+    PIP Installation
+    modules (prog)
+    

@@ -2,3 +2,5 @@
 
 a = int(input("Enter any number to find the square root : "))
 print(a*a)
+# or
+print(a**2) # a variable 2 is power

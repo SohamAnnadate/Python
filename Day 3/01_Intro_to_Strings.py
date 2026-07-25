@@ -11,3 +11,6 @@ print(b)
 print(c) 
 
 # String Slicing.....
+
+# A string in python can be scliced for getting a part of the strings.
+

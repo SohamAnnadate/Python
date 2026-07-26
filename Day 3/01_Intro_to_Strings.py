@@ -21,3 +21,14 @@ print(c)
 name = "SohamAnnadate"
 name2 = name[0:6] # trims the string from 0th index to the 6th index (excluding 6th index).
 print(name2)
+
+
+# Syntax : 
+#  val = string[start : end ]
+
+# IF.....
+str = "IndiaIsMyCountry"
+newStr = str[:6] # starts form 0 to 6
+print(newStr)
+newStr2 = str[1:] #starts from 1 to length-1 / Size of String
+print(newStr2)
